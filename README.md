@@ -58,8 +58,6 @@ Practice instructor may give extra task during practice hour.
 
 
 
-LEAD AND LAG
-Write query that will show each rental and its genre, and show movie that was rent after that.
 
 # question 03
 **P03.A** Show the best student (show all best students if there are many students with best score) for each course (courses considered different for each year and semester)  
@@ -102,3 +100,4 @@ Order result by `title` of course
 |Programming abstractions|6|5.405405405405405|7|4.605263157894736|6|4.37956204379562|5|5.208333333333334|23|4.563492063492063|
 
 
+**P03.C** Write query that will show each rental and its genre, and show name of movie that was rent after that.
